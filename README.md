@@ -1,1 +1,1 @@
-# Sentimenta-analisis-resource
+# Sentiments-analisis-resource
